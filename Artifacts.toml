@@ -1,0 +1,97 @@
+[[porta]]
+arch = "powerpc64le"
+git-tree-sha1 = "db735c01de2075bf07c0a8d215788f69b2885538"
+libc = "glibc"
+os = "linux"
+
+    [[porta.download]]
+    sha256 = "e5bad79e5fa5090d9b6d4b7f40f8b4394167a212ad87b39b22519451a12637bf"
+    url = "https://github.com/bdoolittle/porta_jll/releases/download/porta-v1.4.1+0/porta.v1.4.1.powerpc64le-linux-gnu.tar.gz"
+[[porta]]
+arch = "armv7l"
+git-tree-sha1 = "bf95de22416404d66c6f605c63fea62039a45cc8"
+libc = "glibc"
+os = "linux"
+
+    [[porta.download]]
+    sha256 = "222a884b5b67b61f37221ed54c571fd3bf49d95ef4b7741157c74ab0de271ca7"
+    url = "https://github.com/bdoolittle/porta_jll/releases/download/porta-v1.4.1+0/porta.v1.4.1.armv7l-linux-gnueabihf.tar.gz"
+[[porta]]
+arch = "aarch64"
+git-tree-sha1 = "e4e95c66f0f022c893cc96b6e38ab4980b286c9c"
+libc = "glibc"
+os = "linux"
+
+    [[porta.download]]
+    sha256 = "eb63651d971bdacfa9b1440aee930c7a92df7f94bf1adf326b121eb500c83277"
+    url = "https://github.com/bdoolittle/porta_jll/releases/download/porta-v1.4.1+0/porta.v1.4.1.aarch64-linux-gnu.tar.gz"
+[[porta]]
+arch = "x86_64"
+git-tree-sha1 = "2126be3e3831349ed281c45e126c1c785b951646"
+libc = "glibc"
+os = "linux"
+
+    [[porta.download]]
+    sha256 = "8647bba111cf63d7c29cae28f14fa348fb144502965e9ad344e0047dc90bf05b"
+    url = "https://github.com/bdoolittle/porta_jll/releases/download/porta-v1.4.1+0/porta.v1.4.1.x86_64-linux-gnu.tar.gz"
+[[porta]]
+arch = "i686"
+git-tree-sha1 = "b60340d0fb91d3aba68190808006a3459d289c95"
+libc = "musl"
+os = "linux"
+
+    [[porta.download]]
+    sha256 = "b4cda4e5837dcdc4151539ba3ec199b4e8dc52f755ee8dd685b032573806c091"
+    url = "https://github.com/bdoolittle/porta_jll/releases/download/porta-v1.4.1+0/porta.v1.4.1.i686-linux-musl.tar.gz"
+[[porta]]
+arch = "aarch64"
+git-tree-sha1 = "859ced5fd5377014eb6dc8b6465f7bcd75912f15"
+libc = "musl"
+os = "linux"
+
+    [[porta.download]]
+    sha256 = "94ba998bd92fb341192634d997f7b7067c45b3b3938224b8760ed687321dc7f2"
+    url = "https://github.com/bdoolittle/porta_jll/releases/download/porta-v1.4.1+0/porta.v1.4.1.aarch64-linux-musl.tar.gz"
+[[porta]]
+arch = "x86_64"
+git-tree-sha1 = "a4f49e5fd9a23be68eab4edea754ad5d36454bc9"
+os = "macos"
+
+    [[porta.download]]
+    sha256 = "d7948f888e0bf085c8ced7860bb825d4eeb90fe09cc9ab64afdaa84425c5e9ec"
+    url = "https://github.com/bdoolittle/porta_jll/releases/download/porta-v1.4.1+0/porta.v1.4.1.x86_64-apple-darwin14.tar.gz"
+[[porta]]
+arch = "i686"
+git-tree-sha1 = "8d856e5466fc13e411eaa85a2afcfe604d4b6833"
+libc = "glibc"
+os = "linux"
+
+    [[porta.download]]
+    sha256 = "6f22ccba396eec488c4d25fb10a3ed718887673b961e69e4f5a3c807891d35c6"
+    url = "https://github.com/bdoolittle/porta_jll/releases/download/porta-v1.4.1+0/porta.v1.4.1.i686-linux-gnu.tar.gz"
+[[porta]]
+arch = "x86_64"
+git-tree-sha1 = "daaa48225bbe436bfd64565fecb1dde5fa5d4dc0"
+os = "freebsd"
+
+    [[porta.download]]
+    sha256 = "aa424e8db8131d9a283302dcc6e72ebfad3951586e2700b1ce087e3be3dbf4c9"
+    url = "https://github.com/bdoolittle/porta_jll/releases/download/porta-v1.4.1+0/porta.v1.4.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[porta]]
+arch = "armv7l"
+git-tree-sha1 = "713e6f3e6b31bbdbc89c374ed36827a0f62f7e27"
+libc = "musl"
+os = "linux"
+
+    [[porta.download]]
+    sha256 = "97ea62c3e2bcdb44eddb5fae6b9bad88a393de7bb451b2e83eca55a37b41dfc9"
+    url = "https://github.com/bdoolittle/porta_jll/releases/download/porta-v1.4.1+0/porta.v1.4.1.armv7l-linux-musleabihf.tar.gz"
+[[porta]]
+arch = "x86_64"
+git-tree-sha1 = "dbe2d74a15a3c1cf73d7583782d48739b1471072"
+libc = "musl"
+os = "linux"
+
+    [[porta.download]]
+    sha256 = "2c76162f2688a90511fbe91c52d8e7f31e6fb4a0a8fa7f736cb5be21e7bafe93"
+    url = "https://github.com/bdoolittle/porta_jll/releases/download/porta-v1.4.1+0/porta.v1.4.1.x86_64-linux-musl.tar.gz"
